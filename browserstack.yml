@@ -1,0 +1,22 @@
+userName: praneshgaikwad_S5lkF8
+accessKey: LwCcykBcmh38MJnZ5LJC
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: chrome
+    browserVersion: 103.0
+  - os: Windows
+    osVersion: 10
+    browserName: firefox
+    browserVersion: 102.0
+  - os: OS X
+    osVersion: Big Sur
+    browserName: safari
+    browserVersion: 14.1
+parallelsPerPlatform: 1
+browserstackLocal: true
+buildName: browserstack-build-1
+projectName: BrowserStack Sample
+debug: false
+networkLogs: false
+consoleLogs: errors

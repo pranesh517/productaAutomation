@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-02T20:12:19 IST" name="Suite" finished-at="2022-09-02T20:12:44 IST" duration-ms="25007">
+    <groups>
+    </groups>
+    <test started-at="2022-09-02T20:12:19 IST" name="Test" finished-at="2022-09-02T20:12:44 IST" duration-ms="25007">
+      <class name="tests.ContactPageTests">
+        <test-method is-config="true" signature="beforeAllTestCases()[pri:0, instance:tests.ContactPageTests@2f8dad04]" started-at="2022-09-02T20:12:19 IST" name="beforeAllTestCases" finished-at="2022-09-02T20:12:31 IST" duration-ms="11896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllTestCases -->
+        <test-method signature="TC001()[pri:0, instance:tests.ContactPageTests@2f8dad04]" started-at="2022-09-02T20:12:31 IST" name="TC001" finished-at="2022-09-02T20:12:39 IST" duration-ms="7615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+        <test-method is-config="true" signature="afterAllTestCases()[pri:0, instance:tests.ContactPageTests@2f8dad04]" started-at="2022-09-02T20:12:39 IST" name="afterAllTestCases" finished-at="2022-09-02T20:12:40 IST" duration-ms="692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterAllTestCases -->
+      </class> <!-- tests.ContactPageTests -->
+      <class name="tests.SignInPageTests">
+        <test-method is-config="true" signature="beforeAllTestCases()[pri:0, instance:tests.SignInPageTests@78ffe6dc]" started-at="2022-09-02T20:12:19 IST" name="beforeAllTestCases" finished-at="2022-09-02T20:12:31 IST" duration-ms="11663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllTestCases -->
+        <test-method signature="TC002()[pri:0, instance:tests.SignInPageTests@78ffe6dc]" started-at="2022-09-02T20:12:31 IST" name="TC002" finished-at="2022-09-02T20:12:44 IST" duration-ms="12580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002 -->
+        <test-method is-config="true" signature="afterAllTestCases()[pri:0, instance:tests.SignInPageTests@78ffe6dc]" started-at="2022-09-02T20:12:44 IST" name="afterAllTestCases" finished-at="2022-09-02T20:12:44 IST" duration-ms="695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterAllTestCases -->
+      </class> <!-- tests.SignInPageTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
